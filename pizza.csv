@@ -1,0 +1,132 @@
+pizzaiolo/-a;topping;2nd topping;napoli style crust;extra mozzarella;extra chili oil;diameter;price
+Alberto;prosciutto;cubetti di speck;yes;yes;no;40,7; 24,1 € 
+Alberto;taleggio;cubetti di speck;yes;yes;no;37,0; 21,3 € 
+Alberto;mushrooms;cubetti di speck;yes;yes;yes;29,6; 15,3 € 
+Alberto;bresaola;cubetti di speck;yes;no;yes;25,9; 18,0 € 
+Alberto;burrata;cubetti di speck;yes;no;yes;33,3; 25,1 € 
+Alberto;gamberetti;garlic;no;no;yes;34,2; 16,9 € 
+Alberto;bresaola;garlic;no;yes;yes;29,6; 14,6 € 
+Alberto;taleggio;garlic;no;no;yes;14,8; 11,6 € 
+Alberto;mushrooms;garlic;yes;no;yes;22,2; 13,1 € 
+Alberto;bresaola;garlic;no;no;no;22,2; 13,1 € 
+Alberto;burrata;tomate;no;no;no;34,2; 16,9 € 
+Alberto;gamberetti;tomate;yes;yes;no;29,6; 14,6 € 
+Alberto;bresaola;tomate;yes;yes;no;14,8; 11,6 € 
+Alberto;gamberetti;tomate;no;yes;no;22,2; 13,1 € 
+Alberto;burrata;tomate;no;yes;no;22,2; 13,1 € 
+Alberto;burrata;scamorza;no;yes;yes;34,2; 16,9 € 
+Alberto;bresaola;scamorza;no;yes;yes;29,6; 14,6 € 
+Alberto;prosciutto;scamorza;yes;yes;yes;14,8; 11,6 € 
+Alberto;mushrooms;scamorza;yes;yes;yes;22,2; 13,1 € 
+Alberto;burrata;scamorza;yes;yes;yes;22,2; 13,1 € 
+Alberto;prosciutto;rucola;yes;yes;yes;40,7; 23,7 € 
+Alberto;mushrooms;rucola;yes;yes;yes;34,2; 20,5 € 
+Alberto;prosciutto;rucola;yes;yes;yes;25,9; 14,9 € 
+Alberto;bresaola;rucola;yes;no;no;30,5; 17,5 € 
+Alberto;prosciutto;rucola;yes;no;no;30,5; 17,5 € 
+Renata;burrata;formaggio;yes;no;no;15,7; 8,0 € 
+Renata;prosciutto;formaggio;yes;no;no;22,2; 9,7 € 
+Renata;bresaola;formaggio;;no;yes;25,9; 11,7 € 
+Renata;burrata;gorgonzola;;no;yes;22,2; 10,0 € 
+Renata;prosciutto;carciofo;;yes;yes;31,5; 12,5 € 
+Renata;prosciutto;mozzarella di buffola;no;yes;yes;22,2; 13,5 € 
+Renata;mushrooms;formaggio;yes;yes;yes;15,7; 8,6 € 
+Renata;prosciutto;formaggio;no;yes;yes;22,2; 11,5 € 
+Renata;mushrooms;formaggio;no;yes;yes;25,9; 13,3 € 
+Renata;mushrooms;gorgonzola;no;yes;yes;22,2; 11,9 € 
+Renata;burrata;carciofo;no;yes;yes;31,5; 15,0 € 
+Renata;bresaola;mozzarella di buffola;yes;yes;yes;22,2; 15,6 € 
+Renata;prosciutto;formaggio;no;yes;yes;15,7; 8,7 € 
+Renata;burrata;formaggio;yes;yes;yes;22,2; 9,7 € 
+Renata;prosciutto;formaggio;yes;yes;no;25,9; 11,7 € 
+Renata;prosciutto;gorgonzola;no;no;no;22,2; 12,0 € 
+Renata;mushrooms;carciofo;yes;no;no;31,5; 15,3 € 
+Renata;bresaola;mozzarella di buffola;yes;no;no;22,2; 15,8 € 
+Renata;bresaola;formaggio;yes;;no;15,7; 11,9 € 
+Renata;mushrooms;formaggio;yes;;no;22,2; 9,7 € 
+Renata;burrata;formaggio;yes;yes;no;25,9; 11,7 € 
+Renata;bresaola;gorgonzola;no;yes;no;22,2; 10,0 € 
+Renata;prosciutto;carciofo;no;yes;no;31,5; 12,5 € 
+Renata;mushrooms;mozzarella di buffola;no;yes;no;22,2; 13,5 € 
+Cosima;tonno;onion;yes;yes;yes;15,7; 9,2 € 
+Cosima;tonno;onion;yes;yes;yes;22,2; 11,7 € 
+Cosima;tonno;onion;yes;yes;yes;25,9; 13,8 € 
+Cosima;salami milanese;peperoncini;yes;no;yes;15,7; 9,6 € 
+Cosima;salami milanese;peperoncini;no;no;no;22,2; 12,2 € 
+Cosima;salami milanese;peperoncini;yes;no;yes;25,9; 14,2 € 
+Cosima;salsiccia;peperoncini;;yes;yes;15,7; 9,2 € 
+Cosima;salsiccia;peperoncini;;yes;no;22,2; 11,7 € 
+Cosima;salsiccia;peperoncini;;yes;no;25,9; 13,8 € 
+Cosima;mushrooms;patata;;yes;no;15,7; 8,9 € 
+Cosima;salmone;patata;yes;yes;no;22,2; 10,8 € 
+Cosima;burrata;patata;yes;yes;yes;25,9; 13,7 € 
+Cosima;salami milanese;scamorza;yes;yes;yes;15,7; 8,9 € 
+Cosima;salami milanese;scamorza;yes;yes;yes;22,2; 10,8 € 
+Cosima;salami milanese;scamorza;yes;yes;no;25,9; 13,7 € 
+Cosima;melanzane;garlic;no;;no;15,7; 9,6 € 
+Cosima;melanzane;garlic;no;no;no;22,2; 12,2 € 
+Cosima;melanzane;garlic;no;no;no;25,9; 14,2 € 
+Cosima;melanzane;tomate;no;;no;15,7; 8,4 € 
+Cosima;melanzane;tomate;no;yes;no;22,2; 10,1 € 
+Cosima;melanzane;tomate;yes;yes;no;25,9; 12,6 € 
+Cosima;melanzane;carciofo;no;yes;yes;15,7; 9,2 € 
+Cosima;melanzane;carciofo;yes;no;yes;22,2; 11,7 € 
+Cosima;melanzane;carciofo;no;no;yes;25,9; 13,8 € 
+Cosima;prosciutto di parma;egg;yes;no;yes;15,7; 8,9 € 
+Cosima;prosciutto di parma;egg;yes;no;yes;22,2; 10,8 € 
+Cosima;prosciutto di parma;egg;yes;no;yes;25,9; 13,7 € 
+Cosima;tonno;onion;yes;no;yes;15,7; 8,7 € 
+Cosima;tonno;onion;yes;yes;no;22,2; 10,3 € 
+Cosima;tonno;onion;yes;yes;no;25,9; 13,2 € 
+Davide;burrata;scamorza;no;yes;no;34,2; 16,9 € 
+Davide;bresaola;scamorza;no;yes;no;29,6; 14,6 € 
+Davide;prosciutto;scamorza;yes;yes;no;14,8; 11,6 € 
+Davide;mushrooms;scamorza;yes;yes;no;22,2; 13,1 € 
+Davide;burrata;scamorza;yes;yes;no;22,2; 13,1 € 
+Davide;prosciutto;rucola;yes;yes;yes;40,7; 23,7 € 
+Davide;mushrooms;rucola;yes;yes;yes;34,2; 20,5 € 
+Davide;prosciutto;rucola;yes;yes;yes;25,9; 14,9 € 
+Davide;bresaola;rucola;yes;no;yes;30,5; 17,5 € 
+Davide;prosciutto;rucola;yes;no;yes;30,5; 17,5 € 
+Davide;burrata;formaggio;yes;no;yes;15,7; 8,0 € 
+Davide;prosciutto;formaggio;yes;no;yes;22,2; 9,7 € 
+Davide;bresaola;formaggio;yes;no;yes;25,9; 11,7 € 
+Davide;burrata;gorgonzola;no;no;yes;22,2; 10,0 € 
+Davide;prosciutto;carciofo;no;yes;yes;31,5; 12,5 € 
+Davide;prosciutto;mozzarella di buffola;no;yes;no;22,2; 13,5 € 
+Davide;mushrooms;formaggio;yes;yes;no;15,7; 8,6 € 
+Davide;prosciutto;pineapple;no;yes;no;22,2; 32,4 € 
+Davide;prosciutto;formaggio;no;yes;no;22,2; 11,5 € 
+Davide;mushrooms;formaggio;no;yes;no;25,9; 13,3 € 
+Davide;mushrooms;gorgonzola;no;yes;yes;22,2; 11,9 € 
+Enrico;burrata;carciofo;no;yes;yes;31,5; 15,0 € 
+Enrico;burrata;formaggio;yes;no;yes;15,7; 8,0 € 
+Enrico;prosciutto;formaggio;yes;no;yes;22,2; 9,7 € 
+Enrico;bresaola;formaggio;yes;no;no;25,9; 11,7 € 
+Enrico;burrata;gorgonzola;no;no;no;22,2; 10,0 € 
+Enrico;prosciutto;carciofo;no;yes;no;31,5; 12,5 € 
+Enrico;prosciutto;mozzarella di buffola;no;yes;no;22,2; 13,5 € 
+Enrico;mushrooms;formaggio;yes;yes;no;15,7; 8,6 € 
+Enrico;prosciutto;formaggio;no;yes;yes;22,2; 11,5 € 
+Enrico;mushrooms;formaggio;no;yes;yes;25,9; 13,3 € 
+Enrico;mushrooms;gorgonzola;no;yes;yes;22,2; 11,9 € 
+Enrico;burrata;carciofo;no;yes;yes;31,5; 15,0 € 
+Enrico;bresaola;mozzarella di buffola;yes;yes;yes;22,2; 15,6 € 
+Enrico;prosciutto;formaggio;no;yes;yes;15,7; 8,7 € 
+Enrico;burrata;formaggio;yes;yes;yes;22,2; 9,7 € 
+Enrico;prosciutto;formaggio;yes;yes;yes;25,9; 11,7 € 
+Enrico;prosciutto;gorgonzola;no;no;yes;22,2; 12,0 € 
+Enrico;mushrooms;carciofo;yes;no;no;31,5; 15,3 € 
+Enrico;bresaola;mozzarella di buffola;yes;no;no;22,2; 15,8 € 
+Enrico;bresaola;formaggio;yes;yes;no;15,7; 11,9 € 
+Enrico;mushrooms;formaggio;yes;yes;no;22,2; 9,7 € 
+Enrico;burrata;formaggio;yes;yes;no;25,9; 11,7 € 
+Enrico;bresaola;gorgonzola;no;yes;no;22,2; 10,0 € 
+Enrico;prosciutto;carciofo;no;yes;no;31,5; 12,5 € 
+Enrico;mushrooms;mozzarella di buffola;no;yes;yes;22,2; 13,5 € 
+Enrico;tonno;onion;yes;yes;yes;15,7; 9,2 € 
+Enrico;tonno;onion;yes;yes;yes;22,2; 11,7 € 
+Enrico;tonno;onion;yes;yes;yes;25,9; 13,8 € 
+Enrico;salami milanese;peperoncini;yes;no;yes;15,7; 9,6 € 
+Enrico;salami milanese;peperoncini;no;no;yes;22,2; 12,2 € 
+Enrico;prosciutto;pineapple;no;no;yes;22,2; 29,0 € 
